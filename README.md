@@ -4,7 +4,16 @@
 
 ### About me:
 
-Hi, I'm Vyctor, an 19-year-old student of Analysis and Systems Development, currently in the third semester of my studies. I'm passionate about data analysis and aspire to build a career in this field. I enjoy learning new technologies and improving my coding skills.
+Hi, I'm Vyctor 👋<br>
+I'm a 19-year-old student of Analysis and Systems Development, currently in my third semester.<br>
+I'm passionate about backend development and currently work with <strong>Java + Spring Boot</strong>, as well as <strong>Node.js (TypeScript)</strong> and <strong>Python</strong>.<br>
+I also enjoy building frontend interfaces using <strong>React</strong>, <strong>JavaScript</strong>, and <strong>TypeScript</strong>.<br><br>
+
+I'm familiar with <strong>MySQL</strong> and <strong>SQLite</strong> databases, version control with <strong>Git/GitHub</strong>, and containerization with <strong>Docker</strong>.<br>
+I actively participate in academic extension projects as an instructor of logic, Java and OOP, where I share knowledge and keep improving my fullstack skills.<br><br>
+
+I'm focused on growing as a software developer and diving deeper into architecture, clean code and scalable solutions.<br>
+Always learning, always coding!
 
 ### Technologies and tools:
 
