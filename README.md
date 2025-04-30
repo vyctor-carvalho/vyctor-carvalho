@@ -38,19 +38,36 @@ Always learning, always coding!
   </tr>
 </table>
 
+### 🧩 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+|--------|-----------|-------------|
+| [🚀 Fullstack Node](https://github.com/vyctor-carvalho/Full_Stack_Node) | Projeto fullstack desenvolvido como parte de um teste técnico. Conta com uma API em Node.js + TypeScript e dois front-ends em React: um com Ant Design e outro com Material UI. Utiliza Docker e Docker Compose para uma execução mais fácil dos serviços. | Node.js, TypeScript, React, Ant Design, Material UI, Docker |
+| [📚 API de Livros com Java](https://github.com/vyctor-carvalho/Api-Livros-em-java) | Este é o meu primeiro projeto de API em Java. Utilizei Spring Boot junto ao Java 21 para implementar uma API capaz de realizar operações CRUD de livros, com integração direta ao banco de dados. | Java 21, Spring Boot, MySQL |
+| [🐍 Django + React App](https://github.com/vyctor-carvalho/Full_Stack_Python) | Projeto fullstack em Python e Django com React no frontend (ainda vou fazer o front-end). | Python, Django, React (em desenvolvimento) |
+| [📊 API Estatísticas Itaú](https://github.com/vyctor-carvalho/Api-Transacoes-Itau) | API REST para desafio técnico com estatísticas e controle de transações | Java, Spring Boot, Docker |
+
+
 ### GitHub Stats
 
 <div align="left" style="display: flex; justify-content: space-between;">
   <a href="https://github.com/vyctor-carvalho/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vyctor-carvalho&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true&cache_seconds=21600"/>
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=vyctor-carvalho&show_icons=true&theme=radical" />
+</a>
   <a href="https://github.com/vyctor-carvalho/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyctor-carvalho&layout=compact&langs_count=7&theme=one_dark_pro&cache_seconds=21600"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyctor-carvalho&layout=compact&langs_count=7&cache_seconds=21600&theme=radical"/>
   </a>
 </div>
 
 ### Contact
 
 <div> 
-   <a href="mailto:vkvyctor180@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:vkvyctor180@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/vyctor-carvalho-945366306" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
+
