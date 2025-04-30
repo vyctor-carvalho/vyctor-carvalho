@@ -59,17 +59,18 @@ Always learning, always coding!
   </a>
 </div>
 
+<div style="display: flex; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/vyctor-carvalho/vyctor-carvalho/output/github-contribution-grid-snake-dark.svg" target="_blank">
+</div>
+
 ### Contact
 
 <div> 
   <a href="mailto:vkvyctor180@gmail.com">
-    <img src="https://raw.githubusercontent.com/vyctor-carvalho/vyctor-carvalho/output/github-contribution-grid-snake-dark.svg" target="_blank">
+
   </a>
   <a href="https://www.linkedin.com/in/vyctor-carvalho-945366306" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
 
-<div style="display: flex; justify-content: center;">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/vyctor-carvalho/vyctor-carvalho/output/github-contribution-grid-snake.svg" />
-</div>
