@@ -70,3 +70,5 @@ Always learning, always coding!
   </a>
 </div>
 
+
+<img src="https://raw.githubusercontent.com/vyctor-carvalho/vyctor-carvalho/output/snake.svg" alt="Snake animation" />
