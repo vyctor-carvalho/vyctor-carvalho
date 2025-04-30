@@ -41,7 +41,6 @@ Always learning, always coding!
 ### 🧩 Featured Projects
 
 | Project | Description | Tech |
-|--------|-------------|------|
 |--------|-----------|-------------|
 | [🚀 Fullstack Node](https://github.com/vyctor-carvalho/Full_Stack_Node) | Projeto fullstack desenvolvido como parte de um teste técnico. Conta com uma API em Node.js + TypeScript e dois front-ends em React: um com Ant Design e outro com Material UI. Utiliza Docker e Docker Compose para uma execução mais fácil dos serviços. | Node.js, TypeScript, React, Ant Design, Material UI, Docker |
 | [📚 API de Livros com Java](https://github.com/vyctor-carvalho/Api-Livros-em-java) | Este é o meu primeiro projeto de API em Java. Utilizei Spring Boot junto ao Java 21 para implementar uma API capaz de realizar operações CRUD de livros, com integração direta ao banco de dados. | Java 21, Spring Boot, MySQL |
