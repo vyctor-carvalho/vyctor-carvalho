@@ -19,7 +19,8 @@ jobs:
         with:
           github_user_name: vyctor-carvalho
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            outputs: |
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00FF00&color_dots=#0d0d0d,#1a1a1a,#262626,#33cc33,#00ff00
       - name: Publicar no branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
