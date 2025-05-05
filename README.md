@@ -1,11 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Howdy!+I'm+Vyctor.;Welcome+to+my+Github+profile!+)
 
-<img src="https://steamuserimages-a.akamaihd.net/ugc/912450218524408052/A5E5001775EFD89299EC3B548001C0B54D17A8DD/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Undertale Pixel Art" align="right" width="200">
+## About me:
 
-### About me:
-
-Hi, I'm Vyctor 👋<br>
-I'm a 19-year-old student of Analysis and Systems Development, currently in my third semester.<br>
+Hi, I'm Vyctor 👋
+<img src="https://steamuserimages-a.akamaihd.net/ugc/912450218524408052/A5E5001775EFD89299EC3B548001C0B54D17A8DD/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Undertale Pixel Art" align="right" width="200"><br>
+I'm a 19 years old student of Analysis and Systems Development, currently in my third semester.<br>
 I'm passionate about backend development and currently work with <strong>Java + Spring Boot</strong>, as well as <strong>Node.js (TypeScript)</strong> and <strong>Python</strong>.<br>
 I also enjoy building frontend interfaces using <strong>React</strong>, <strong>JavaScript</strong>, and <strong>TypeScript</strong>.<br><br>
 
@@ -42,10 +41,11 @@ Always learning, always coding!
 
 | Project | Description | Tech |
 |--------|-----------|-------------|
-| [🚀 Fullstack Node](https://github.com/vyctor-carvalho/Full_Stack_Node) | Projeto fullstack desenvolvido como parte de um teste técnico. Conta com uma API em Node.js + TypeScript e dois front-ends em React: um com Ant Design e outro com Material UI. Utiliza Docker e Docker Compose para uma execução mais fácil dos serviços. | Node.js, TypeScript, React, Ant Design, Material UI, Docker |
-| [📚 API de Livros com Java](https://github.com/vyctor-carvalho/Api-Livros-em-java) | Este é o meu primeiro projeto de API em Java. Utilizei Spring Boot junto ao Java 21 para implementar uma API capaz de realizar operações CRUD de livros, com integração direta ao banco de dados. | Java 21, Spring Boot, MySQL |
-| [🐍 Django + React App](https://github.com/vyctor-carvalho/Full_Stack_Python) | Projeto fullstack em Python e Django com React no frontend (ainda vou fazer o front-end). | Python, Django, React (em desenvolvimento) |
-| [📊 API Estatísticas Itaú](https://github.com/vyctor-carvalho/Api-Transacoes-Itau) | API REST para desafio técnico com estatísticas e controle de transações | Java, Spring Boot, Docker |
+| [🚀 Fullstack Node](https://github.com/vyctor-carvalho/Full_Stack_Node) | Fullstack project developed as part of a technical test. It includes a Node.js + TypeScript API and two front-ends built with React: one using Ant Design and the other using Material UI. Uses Docker and Docker Compose for easier service deployment.  | Node.js, TypeScript, React, Ant Design, Material UI, Docker |
+| [📚 Java Book API](https://github.com/vyctor-carvalho/Api-Livros-em-java) | This is my first API project in Java. I used Spring Boot along with Java 21 to build an API capable of performing CRUD operations on books, with direct integration to a database. | Java 21, Spring Boot, MySQL |
+| [🐍 Django + React App](https://github.com/vyctor-carvalho/Full_Stack_Python) | API project built with Python and Django using SQLite as the database, and custom JWT validation for each route of the application. Includes full CRUD functionality with user login and registration. | Python, Django, SQLite |
+| [📊 Itaú Statistics API](https://github.com/vyctor-carvalho/Api-Transacoes-Itau) | REST API built for a technical challenge, handling statistics and transaction control. It features two endpoints: one for POST and DELETE, and another for GET to retrieve all transactions within the last minute. Docker is used for easier deployment. | Java, Spring Boot, Docker |
+
 
 
 ### GitHub Stats
