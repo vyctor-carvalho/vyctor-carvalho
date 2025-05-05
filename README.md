@@ -43,7 +43,7 @@ Always learning, always coding!
 |--------|-----------|-------------|
 | [🚀 Fullstack Node](https://github.com/vyctor-carvalho/Full_Stack_Node) | Fullstack project developed as part of a technical test. It includes a Node.js + TypeScript API and two front-ends built with React: one using Ant Design and the other using Material UI. Uses Docker and Docker Compose for easier service deployment.  | Node.js, TypeScript, React, Ant Design, Material UI, Docker |
 | [📚 Java Book API](https://github.com/vyctor-carvalho/Api-Livros-em-java) | This is my first API project in Java. I used Spring Boot along with Java 21 to build an API capable of performing CRUD operations on books, with direct integration to a database. | Java 21, Spring Boot, MySQL |
-| [🐍 Django + React App](https://github.com/vyctor-carvalho/Full_Stack_Python) | API project built with Python and Django using SQLite as the database, and custom JWT validation for each route of the application. Includes full CRUD functionality with user login and registration. | Python, Django, SQLite |
+| [🐍 Django API ](https://github.com/vyctor-carvalho/Full_Stack_Python) | API project built with Python and Django using SQLite as the database, and custom JWT validation for each route of the application. Includes full CRUD functionality with user login and registration. | Python, Django, SQLite |
 | [📊 Itaú Statistics API](https://github.com/vyctor-carvalho/Api-Transacoes-Itau) | REST API built for a technical challenge, handling statistics and transaction control. It features two endpoints: one for POST and DELETE, and another for GET to retrieve all transactions within the last minute. Docker is used for easier deployment. | Java, Spring Boot, Docker |
 
 
