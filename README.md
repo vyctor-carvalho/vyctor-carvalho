@@ -1,77 +1,91 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Howdy!+I'm+Vyctor.;Welcome+to+my+Github+profile!+)
 
-## About me:
+<div align="center">
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="My GitHub 3D Contributions" width="80%">
+  </div>
 
-Hi, I'm Vyctor 👋
-<img src="https://steamuserimages-a.akamaihd.net/ugc/912450218524408052/A5E5001775EFD89299EC3B548001C0B54D17A8DD/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Undertale Pixel Art" align="right" width="200"><br>
-I'm a 19 years old student of Analysis and Systems Development, currently in my third semester.<br>
-I'm passionate about backend development and currently work with <strong>Java + Spring Boot</strong>, as well as <strong>Node.js (TypeScript)</strong> and <strong>Python</strong>.<br>
-I also enjoy building frontend interfaces using <strong>React</strong>, <strong>JavaScript</strong>, and <strong>TypeScript</strong>.<br><br>
+## 👋 Sobre Mim
 
-I'm familiar with <strong>MySQL</strong> and <strong>SQLite</strong> databases, version control with <strong>Git/GitHub</strong>, and containerization with <strong>Docker</strong>.<br>
-I actively participate in academic extension projects as an instructor of logic, Java and OOP, where I share knowledge and keep improving my fullstack skills.<br><br>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/912450218524408052/A5E5001775EFD89299EC3B548001C0B54D17A8DD/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Undertale Pixel Art" align="right" width="200">
 
-I'm focused on growing as a software developer and diving deeper into architecture, clean code and scalable solutions.<br>
-Always learning, always coding!
+Olá! Sou Vyctor, um estudante de 19 anos cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas.
 
-### Technologies and tools:
+Sou apaixonado por desenvolvimento backend, com experiência em **Java + Spring Boot**, **Node.js (TypeScript)** e **Python**. Também gosto de construir interfaces frontend com **React**, **JavaScript** e **TypeScript**.
 
-<table style="border: none;">
-  <tr>
-    <td align="center" style="border: none;">
-      <strong>🚀 Frontend</strong><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="35" width="40" alt="JavaScript" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="35" width="40" alt="TypeScript" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="35" width="40" alt="React" />
-    </td>
-    <td align="center" style="border: none;">
-      <strong>🧠 Backend</strong><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="35" width="40" alt="Java" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="35" width="40" alt="Python" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="35" width="40" alt="Node.js" />
-    </td>
-    <td align="center" style="border: none;">
-      <strong>⚙️ DevOps</strong><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="35" width="40" alt="Docker" />
-    </td>
-  </tr>
-</table>
+Tenho familiaridade com bancos de dados **MySQL**, **PostgreSQL** e **SQLite**, controle de versão com **Git/GitHub**, e conteinerização com **Docker**.
 
-### 🧩 Featured Projects
+Atualmente, participo ativamente de projetos de extensão acadêmica como instrutor de lógica de programação, Java e Programação Orientada a Objetos, onde compartilho conhecimento e continuo aprimorando minhas habilidades fullstack.
 
-| Project | Description | Tech |
-|--------|-----------|-------------|
-| [🚀 Fullstack Node](https://github.com/vyctor-carvalho/Full_Stack_Node) | Fullstack project developed as part of a technical test. It includes a Node.js + TypeScript API and two front-ends built with React: one using Ant Design and the other using Material UI. Uses Docker and Docker Compose for easier service deployment.  | Node.js, TypeScript, React, Ant Design, Material UI, Docker |
-| [📚 Java Book API](https://github.com/vyctor-carvalho/Api-Livros-em-java) | This is my first API project in Java. I used Spring Boot along with Java 21 to build an API capable of performing CRUD operations on books, with direct integration to a database. | Java 21, Spring Boot, MySQL |
-| [🌍 Angel Visitor API](https://github.com/vyctor-carvalho/cop30-guide) | REST API developed for the COP-30, enabling Angels to mentor Visitors, manage event attendance, and control access through JWT authentication and role-based permissions. | Node.js, TypeScript, PostgreSQL |
-| [🐍 Django API ](https://github.com/vyctor-carvalho/Full_Stack_Python) | API project built with Python and Django using SQLite as the database, and custom JWT validation for each route of the application. Includes full CRUD functionality with user login and registration. | Python, Django, SQLite |
-| [📊 Itaú Statistics API](https://github.com/vyctor-carvalho/Api-Transacoes-Itau) | REST API built for a technical challenge, handling statistics and transaction control. It features two endpoints: one for POST and DELETE, and another for GET to retrieve all transactions within the last minute. Docker is used for easier deployment. | Java, Spring Boot, Docker |
+Meu foco é crescer como desenvolvedor de software, aprofundando-me em arquitetura, código limpo e soluções escaláveis. Sempre aprendendo, sempre codando!
 
+---
 
+## 🛠️ Habilidades e Ferramentas
 
-### GitHub Stats
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,javascript,typescript,html,css,react,nodejs,express,java,spring,python,django,docker,postgres,mysql,jest,figma,linux,postman&theme=dark" />
+    </a>
+</div>
 
-<div align="left" style="display: flex; justify-content: space-between;">
+---
+
+## 📊 Minhas Estatísticas e Atividades no GitHub
+
+<div align="center">
+
+| Produtividade (Horas Comuns de Commit) | Detalhes do Perfil |
+| :------------------------------------: | :-----------------------------: |
+| [![Vyctor's Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vyctor-carvalho&theme=radical&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![Vyctor's Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vyctor-carvalho&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+
+</div>
+
+<br>
+
+<div align="center" style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
   <a href="https://github.com/vyctor-carvalho/">
-    <img src="https://github-readme-stats.vercel.app/api?username=vyctor-carvalho&show_icons=true&theme=radical" />
-</a>
+    <img src="https://github-readme-stats.vercel.app/api?username=vyctor-carvalho&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="Estatísticas de Vyctor Carvalho" />
+  </a>
   <a href="https://github.com/vyctor-carvalho/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyctor-carvalho&layout=compact&langs_count=7&cache_seconds=21600&theme=radical"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyctor-carvalho&layout=compact&langs_count=7&cache_seconds=21600&theme=radical&hide_border=true" alt="Linguagens Mais Usadas por Vyctor"/>
   </a>
 </div>
 
-<div style="display: flex; justify-content: center;">
-    <img src="https://raw.githubusercontent.com/vyctor-carvalho/vyctor-carvalho/output/github-contribution-grid-snake-dark.svg" target="_blank">
-</div>
+<br>
 
-### Contact
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vyctor-carvalho/vyctor-carvalho/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Grid">
+  </div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vyctor-carvalho&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
+  </div>
+
+---
+
+
+## 🧩 Projetos em Destaque
+
+| Projeto                                                                                                | Descrição                                                                                                                                                                                                                            | Tecnologias                                                        |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| [📍 Trace Point - Portal Interativo](https://vyctor-carvalho.github.io/Trace_Point/)                    | Portal interativo e documentação do projeto Trace Point. Apresenta as funcionalidades do sistema de gerenciamento de visitas para a COP-30, detalhando as interações do frontend com a API para diferentes perfis (Visitante, Organizador, Admin). | HTML, CSS, JavaScript                                              |
+| [🚀 Fullstack Node](https://github.com/vyctor-carvalho/Full_Stack_Node)                                | Projeto fullstack desenvolvido como teste técnico. Inclui API Node.js + TypeScript e dois frontends em React (Ant Design e Material UI). Utiliza Docker e Docker Compose.                                     | Node.js, TypeScript, React, Ant Design, Material UI, Docker      |
+| [📚 Java Book API](https://github.com/vyctor-carvalho/Api-Livros-em-java)                               | Primeiro projeto de API em Java, utilizando Spring Boot e Java 21 para um CRUD de livros com integração a banco de dados.                                                                                     | Java 21, Spring Boot, MySQL                                        |
+| [🌍 Angel Visitor API (Backend Trace Point)](https://github.com/vyctor-carvalho/cop30-guide)             | API REST para a COP-30, o backend do projeto Trace Point. Permite que "Anjos" orientem Visitantes, gerenciem presença em eventos e controlem acesso com JWT e permissões baseadas em papéis.                                  | Node.js, TypeScript, PostgreSQL                                    |
+| [🐍 Django API ](https://github.com/vyctor-carvalho/Full_Stack_Python)                                 | API construída com Python e Django, usando SQLite e validação JWT customizada. Inclui CRUD completo com login e registro de usuários.                                                                       | Python, Django, SQLite                                             |
+| [📊 Itaú Statistics API](https://github.com/vyctor-carvalho/Api-Transacoes-Itau)                          | API REST para um desafio técnico, lidando com estatísticas e controle de transações. Apresenta endpoints para POST/DELETE e GET de transações no último minuto. Utiliza Docker.                                   | Java, Spring Boot, Docker                                          |
+
+---
+
+## 📫 Contato
 
 <div> 
   <a href="mailto:vkvyctor180@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/vyctor-carvalho-945366306" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-</div>
-
+  </div>
