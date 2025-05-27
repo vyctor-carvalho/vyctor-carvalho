@@ -1,8 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Howdy!+I'm+Vyctor.;Welcome+to+my+Github+profile!+)
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="My GitHub 3D Contributions" width="80%">
-  </div>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="My GitHub 3D Contributions (Dark Theme)" width="80%">
+</div>
 
 ## 👋 Sobre Mim
 
