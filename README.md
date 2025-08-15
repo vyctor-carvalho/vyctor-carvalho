@@ -4,7 +4,7 @@
 
 <img src="https://steamuserimages-a.akamaihd.net/ugc/912450218524408052/A5E5001775EFD89299EC3B548001C0B54D17A8DD/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Undertale Pixel Art" align="right" width="200">
 
-Hi! I'm Vyctor, a 19-year-old student in my third semester of Systems Analysis and Development.
+Hi! I'm Vyctor, a 19-year-old student in my fourth semester of Systems Analysis and Development.
 
 I'm passionate about backend development, with experience in **Java + Spring Boot**, **Node.js (TypeScript)**, and **Python**. I also enjoy building frontend interfaces using **React**, **JavaScript**, and **TypeScript**.
 
@@ -90,3 +90,4 @@ My focus is on growing as a software developer, delving deeper into architecture
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
   </a>
 </div>
+
