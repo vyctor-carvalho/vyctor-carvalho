@@ -1,18 +1,19 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Howdy!+I'm+Vyctor.;Welcome+to+my+Github+profile!+)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Olá!+Eu+sou+Vyctor.;Bem+vindo+ao+meu+Github!+)
 
-## 👋 About Me
-
+## 👋 Sobre min
 <img src="https://steamuserimages-a.akamaihd.net/ugc/912450218524408052/A5E5001775EFD89299EC3B548001C0B54D17A8DD/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Undertale Pixel Art" align="right" width="200">
 
-Hi! I'm Vyctor, a 19-year-old student in my fourth semester of Systems Analysis and Development.
+Olá! Me chamo **Vyctor**, sou estudante de **Ciência da Computação**, atualmente no **quinto semestre**, e já concluí o curso de **Análise e Desenvolvimento de Sistemas (ADS)**.
 
-I'm passionate about backend development, with experience in **Java + Spring Boot**, **Node.js (TypeScript)**, and **Python**. I also enjoy building frontend interfaces using **React**, **JavaScript**, and **TypeScript**.
+Sou apaixonado por **desenvolvimento backend**, com experiência em **Java + Spring Boot**, **Node.js (TypeScript)** e **Python**. Também gosto de criar interfaces frontend utilizando **React**, **JavaScript** e **TypeScript**.
 
-I'm familiar with **MySQL**, **PostgreSQL**, and **SQLite** databases, version control with **Git/GitHub**, and containerization with **Docker**.
+Tenho familiaridade com bancos de dados **MySQL**, **PostgreSQL** e **SQLite**, controle de versão com **Git/GitHub** e conteinerização com **Docker**.
 
-Currently, I actively participate in academic extension projects as an instructor for programming logic, Java, and Object-Oriented Programming, where I share knowledge and continue to enhance my full-stack skills.
+Atualmente, participo ativamente de **projetos de extensão acadêmica** como instrutor de **lógica de programação**, **Java** e **Programação Orientada a Objetos**, onde compartilho conhecimento e continuo aprimorando minhas habilidades full stack.
 
-My focus is on growing as a software developer, delving deeper into architecture, clean code, and scalable solutions. Always learning, always coding!
+Meu foco é evoluir constantemente como **desenvolvedor de software**, aprofundando meus estudos em **arquitetura**, **clean code** e **soluções escaláveis**. Sempre aprendendo, sempre codando! 🚀
+
+Se quiser, posso adaptar o texto para **LinkedIn**, **GitHub README**, **currículo** ou deixar com um tom mais **formal** ou **descontraído**.
 
 ---
 
@@ -22,7 +23,7 @@ My focus is on growing as a software developer, delving deeper into architecture
 
 ---
 
-## 📊 My GitHub Stats & Activity
+## 📊 Stats & Activity
 
 <div align="center">
 
@@ -67,20 +68,20 @@ My focus is on growing as a software developer, delving deeper into architecture
 
 ---
 
-## 🧩 Featured Projects
+## 🧩 Projetos em Destaque
 
-| Project                                                        | Description                                                                                                                                                                                                                       | Technologies                                                     |
-| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [📍 Trace Point - Interactive Portal](https://vyctor-carvalho.github.io/Trace_Point/) | Interactive portal and documentation for the Trace Point project. It presents the features of the COP-30 visitor management system, detailing frontend interactions with the API for different user profiles (Visitor, Organizer, Admin). | HTML, CSS, JavaScript                                              |
-| [🚀 Fullstack Node](https://github.com/vyctor-carvalho/Full_Stack_Node) | Full-stack project developed as a technical test. Includes a Node.js + TypeScript API and two React frontends (Ant Design and Material UI). Uses Docker and Docker Compose.                                    | Node.js, TypeScript, React, Ant Design, Material UI, Docker      |
-| [📚 Java Book API](https://github.com/vyctor-carvalho/Api-Livros-em-java) | First API project in Java, using Spring Boot and Java 21 for a book CRUD operation with database integration.                                                                                                   | Java 21, Spring Boot, MySQL                                        |
-| [🌍 Angel Visitor API (Trace Point Backend)](https://github.com/vyctor-carvalho/cop30-guide) | REST API for COP-30, the backend for the Trace Point project. Allows 'Angels' to guide Visitors, manage event attendance, and control access with JWT and role-based permissions.                                   | Node.js, TypeScript, PostgreSQL                                    |
-| [🐍 Django API ](https://github.com/vyctor-carvalho/Full_Stack_Python) | API built with Python and Django, using SQLite and custom JWT validation. Includes full CRUD functionality with user login and registration.                                                                      | Python, Django, SQLite                                             |
-| [📊 Itaú Statistics API](https://github.com/vyctor-carvalho/Api-Transacoes-Itau) | REST API for a technical challenge, handling statistics and transaction control. Features endpoints for POST/DELETE and GET of transactions in the last minute. Uses Docker.                                    | Java, Spring Boot, Docker                                          |
+| Projeto                                                                                         | Descrição                                                                                                                                                                                                                                                      | Tecnologias                                                 |
+| ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [📍 Trace Point – Portal Interativo](https://vyctor-carvalho.github.io/Trace_Point/)            | Portal interativo e documentação do projeto Trace Point. Apresenta as funcionalidades do sistema de gestão de visitantes da COP-30, detalhando as interações do frontend com a API para diferentes perfis de usuário (Visitante, Organizador e Administrador). | HTML, CSS, JavaScript                                       |
+| [🚀 Fullstack Node](https://github.com/vyctor-carvalho/Full_Stack_Node)                         | Projeto full stack desenvolvido como teste técnico. Inclui uma API em Node.js + TypeScript e dois frontends em React (Ant Design e Material UI). Utiliza Docker e Docker Compose.                                                                              | Node.js, TypeScript, React, Ant Design, Material UI, Docker |
+| [📚 API de Livros em Java](https://github.com/vyctor-carvalho/Api-Livros-em-java)               | Primeiro projeto de API em Java, utilizando Spring Boot e Java 21 para operações de CRUD de livros com integração a banco de dados.                                                                                                                            | Java 21, Spring Boot, MySQL                                 |
+| [🌍 Angel Visitor API (Backend do Trace Point)](https://github.com/vyctor-carvalho/cop30-guide) | API REST da COP-30, backend do projeto Trace Point. Permite que “Angels” guiem visitantes, gerenciem participação em eventos e controlem acessos com JWT e permissões baseadas em papéis (roles).                                                              | Node.js, TypeScript, PostgreSQL                             |
+| [🐍 API com Django](https://github.com/vyctor-carvalho/Full_Stack_Python)                       | API desenvolvida em Python com Django, utilizando SQLite e validação personalizada de JWT. Inclui funcionalidades completas de CRUD, login e cadastro de usuários.                                                                                             | Python, Django, SQLite                                      |
+| [📊 API de Estatísticas Itaú](https://github.com/vyctor-carvalho/Api-Transacoes-Itau)           | API REST desenvolvida para um desafio técnico, responsável pelo controle de transações e estatísticas. Possui endpoints para POST, DELETE e consulta (GET) de transações realizadas no último minuto. Utiliza Docker.                                          | Java, Spring Boot, Docker                                   |
 
 ---
 
-## 📫 Contact
+## 📫 Contato
 
 <div> 
   <a href="mailto:vkvyctor180@gmail.com">
@@ -90,4 +91,5 @@ My focus is on growing as a software developer, delving deeper into architecture
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
   </a>
 </div>
+
 
